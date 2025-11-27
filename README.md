@@ -1,46 +1,60 @@
 <h1 align="center">👋 Yo, I'm Han</h1>
 
 <p align="center">
-  <b>Fullstack • Cybersecurity • Tech Explorer</b><br>
-  Building, breaking, and securing stuff on the internet 🚀  
+  <b>Fullstack Developer • Cybersecurity Enthusiast • Tech Explorer</b><br>
+  Building things that work — breaking things to learn — shipping things for fun 💻⚡
 </p>
 
 ---
 
 ## 🧠 About Me  
-- 🔐 Currently leveling up in **Web Development,Cybersecurity & Pentesting**  
-- 💻 Intern fullstack dev who loves turning ideas into real apps  
-- 🧩 Always down to tweak, mod, or hack anything tech  
-- 🚀 Trying to be THAT dev who ships projects non-stop  
+- 🔐 Currently diving deep into **Web Development, Cybersecurity, and Pentesting**  
+- 💻 Intern fullstack dev who loves turning ideas into real, functional apps  
+- 🧩 Low-key obsessed with tweaking, modding, and optimizing anything tech  
+- 🚀 Always shipping something — no drafts, no fancy planning, just pure execution  
 
 ---
 
-## 🛠️ Tech Stack
-**Languages:**  
-`PHP` · `JavaScript` · `TypeScript` · `Bash` · `C`  . `python`
+## 🛠️ Tech Stack  
 
-**Framework & Tools:**  
-`CodeIgniter 4` · `Vue` · `Node.js` · `TailwindCSS` · `react` . `express` . `django`
+### **Languages**
+`PHP` · `JavaScript` · `TypeScript` · `Python` · `Bash` · `C`
 
-**Cybersec:**  
-`BurpSuite` · `Nmap` · `Wireshark` · `OSINT` · `Pentest Basics`
+### **Frameworks & Tools**
+`CodeIgniter 4` · `Vue.js` · `React` · `Node.js` · `Express` · `TailwindCSS` · `Django`
+
+### **Cybersecurity**
+`BurpSuite` · `Nmap` · `Wireshark` · `OSINT` · `Web & Network Pentesting`
 
 ---
 
-## ⚡ What I'm Currently Building  
-🔸 Social platform with **anonymous posts + media upload + admin identity reveal system**  
-🔸 mirAI **movie advisor AI** with TMDB API and GOOGLE GEMINI API
+## ⚡ Current Projects  
+🔸 **Anon-Social Platform**  
+Full feature: anonymous posts, media upload, admin identity reveal, comments, and secure backend.
 
-🔸 chat-lite **easy to use and secure chat platform** just access it from your fav browser and create the account. and done, you are ready to have a conversation with other user  
-🔸 Random experiments with Linux and much more  
+🔸 **mirAI — Movie Advisor AI**  
+Integrated with **TMDB API** + **Gemini API** for mood-based movie suggestions.
 
-> basically… kalau ada ide random, gue langsung build aja, no draft no notes 😭
+🔸 **Chat-Lite — Lightweight Chat App**  
+Real-time, fast, simplified chat system designed for low-end performance & clean UI.
+
+🔸 Constant experiments: Linux tweaking, dotfiles, automation tools, and all my random ideas 😭
+
+> ✨ I break things to understand things — then I rebuild them better.
+
+---
+
+## 🚀 Highlights  
+- 🔧 Experienced with **system optimization** on low-end hardware  
+- 🌐 Currently building a modern portfolio (React + modern UI + animations)  
+- 💼 Sometimes freelancing on **web apps** & **small-scale IT work**  
+- 🎯 Goal: Become a hybrid **Fullstack x Cybersec** engineer  
 
 ---
 
 ## 📊 GitHub Stats  
 <div align="center">
-  
+
 ![](https://github-readme-stats.vercel.app/api?username=h4nzs&show_icons=true&theme=tokyonight&hide_border=true)  
 ![](https://github-readme-streak-stats.herokuapp.com/?user=h4nzs&theme=tokyonight&hide_border=true)  
 
@@ -48,7 +62,12 @@
 
 ---
 
-## 🔗 Connect With Me
+## 🧩 Cool Tools I Use  
+`VS Code` · `NeoVim (learning)` · `Arch Linux` · `Kali Linux` · `Docker` · `Git`  
+
+---
+
+## 🔗 Connect With Me  
 <p align="left">
   <a href="https://github.com/h4nzs"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
   <a href="https://h4nzs.github.io/portofolio"><img src="https://img.shields.io/badge/Portfolio-coming%20soon-blueviolet?style=for-the-badge"></a>
@@ -57,5 +76,5 @@
 ---
 
 <p align="center">
-  <i>Always learning. Always building. Always breaking stuff to understand them.</i>
+  <i>"Always learning. Always building. Always breaking — that's how real devs grow."</i>
 </p>
