@@ -45,8 +45,8 @@ Real-time, fast, simplified chat system designed for low-end performance & clean
 ---
 
 ## 🚀 Highlights  
-- 🔧 Experienced with **system optimization** on low-end hardware  
-- 🌐 Currently building a modern portfolio (React + modern UI + animations)  
+- 🔧 Experienced with **system optimization**  
+- 🌐 Currently building a modern secure web app **chat-lite**  
 - 💼 Sometimes freelancing on **web apps** & **small-scale IT work**  
 - 🎯 Goal: Become a hybrid **Fullstack x Cybersec** engineer  
 
