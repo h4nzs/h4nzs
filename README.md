@@ -67,7 +67,7 @@ Tinkering with **Arch**, **Kali**, custom dotfiles, and automation scripts.
 
 ## 🎧 Vibes While Coding  
 <p align="center">
-  <img src="https://img.shields.io/badge/lofi-%F0%9F%8E%B5-6a5acd?style=flat-square">
+  <img src="https://img.shields.io/badge/metal-%F0%9F%8E%B5-6a5acd?style=flat-square">
   <img src="https://img.shields.io/badge/coffee-%F0%9F%8D%B5-f7768e?style=flat-square">
   <img src="https://img.shields.io/badge/linux-%F0%9F%90%A7-73daca?style=flat-square">
 </p>
