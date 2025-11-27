@@ -1,80 +1,91 @@
-<h1 align="center">👋 Yo, I'm Han</h1>
+<h1 align="center">✨ Yo, I'm Han — Fullstack Dev & Cybersecurity Enthusiast</h1>
 
 <p align="center">
-  <b>Fullstack Developer • Cybersecurity Enthusiast • Tech Explorer</b><br>
-  Building things that work — breaking things to learn — shipping things for fun 💻⚡
+  <i>Building fast, secure, and clean digital experiences.</i><br>
+  <img src="https://img.shields.io/badge/Tech-Minimalist-7aa2f7?style=flat-square">
+  <img src="https://img.shields.io/badge/Cybersecurity-Minded-bf7af7?style=flat-square">
 </p>
 
 ---
 
-## 🧠 About Me  
-- 🔐 Currently diving deep into **Web Development, Cybersecurity, and Pentesting**  
-- 💻 Intern fullstack dev who loves turning ideas into real, functional apps  
-- 🧩 Low-key obsessed with tweaking, modding, and optimizing anything tech  
-- 🚀 Always shipping something — no drafts, no fancy planning, just pure execution  
+## 🌌 About Me  
+Hi, I'm **Han** — a developer who loves creating smooth interfaces, stable backends, and secure systems.  
+I’m currently focused on:
+
+- **Intern Fullstack Web Development**  
+- **Cybersecurity & Pentesting**  
+- **Linux ecosystem + automation**  
+- **Building personal projects end-to-end**
+
+I enjoy mixing aesthetics + function to build digital stuff that feels *alive*.  
+Always exploring, always tweaking.
 
 ---
 
-## 🛠️ Tech Stack  
+## 🛠 Tech Stack
 
 ### **Languages**
-`PHP` · `JavaScript` · `TypeScript` · `Python` · `Bash` · `C`
+`PHP` · `JavaScript` · `TypeScript` · `Python` · `C` · `Bash`
 
-### **Frameworks & Tools**
-`CodeIgniter 4` · `Vue.js` · `React` · `Node.js` · `Express` · `TailwindCSS` · `Django`
+### **Frameworks / Tools**
+`React` · `Vue` · `Node.js` · `Express` · `CodeIgniter4`  
+`TailwindCSS` · `Prisma` · `MySQL/MariaDB` · `PostgreSQL`
 
 ### **Cybersecurity**
-`BurpSuite` · `Nmap` · `Wireshark` · `OSINT` · `Web & Network Pentesting`
+`Nmap` · `BurpSuite` · `Wireshark` · `OSINT`  
+Learning more in **Web Pentesting** & **Network Security**
 
 ---
 
-## ⚡ Current Projects  
-🔸 **Anon-Social Platform**  
-Full feature: anonymous posts, media upload, admin identity reveal, comments, and secure backend.
+## 🚀 Current Projects
 
-🔸 **mirAI — Movie Advisor AI**  
-Integrated with **TMDB API** + **Gemini API** for mood-based movie suggestions.
+### **📌 Chat-Lite (Secure Realtime Chat App)**
+A lightweight, browser-based chat platform built for speed & low resource usage.  
+Focus: UX, real-time messaging, and encryption.
 
-🔸 **Chat-Lite — Lightweight Chat App**  
-Real-time, fast, simplified chat system designed for low-end performance & clean UI.
+### **📌 mirAI (Movie Advisor AI)**
+Hybrid AI recommender using **TMDB** + **Gemini API**.  
+Mood-based movie suggestions with clean UI.
 
-🔸 Constant experiments: Linux tweaking, dotfiles, automation tools, and all my random ideas 😭
+### **📌 Social Platform (Anon Posts + Media Uploads)**
+A community platform with anonymous posting options, admin-only identity reveal, and media uploads.
 
-> ✨ I break things to understand things — then I rebuild them better.
-
----
-
-## 🚀 Highlights  
-- 🔧 Experienced with **system optimization**  
-- 🌐 Currently building a modern secure web app **chat-lite**  
-- 💼 Sometimes freelancing on **web apps** & **small-scale IT work**  
-- 🎯 Goal: Become a hybrid **Fullstack x Cybersec** engineer  
+### **📌 Linux Experiments**
+Tinkering with **Arch**, **Kali**, custom dotfiles, and automation scripts.
 
 ---
 
-## 📊 GitHub Stats  
+## 📊 GitHub Analytics
 <div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=h4nzs&show_icons=true&theme=tokyonight&hide_border=true)  
-![](https://github-readme-streak-stats.herokuapp.com/?user=h4nzs&theme=tokyonight&hide_border=true)  
+  
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=h4nzs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+<img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=h4nzs&theme=tokyonight&hide_border=true" />
 
 </div>
 
 ---
 
-## 🧩 Cool Tools I Use  
-`VS Code` · `NeoVim (learning)` · `Arch Linux` · `Kali Linux` · `Docker` · `Git`  
+## 🎧 Vibes While Coding  
+<p align="center">
+  <img src="https://img.shields.io/badge/lofi-%F0%9F%8E%B5-6a5acd?style=flat-square">
+  <img src="https://img.shields.io/badge/coffee-%F0%9F%8D%B5-f7768e?style=flat-square">
+  <img src="https://img.shields.io/badge/linux-%F0%9F%90%A7-73daca?style=flat-square">
+</p>
 
 ---
 
-## 🔗 Connect With Me  
+## 🔗 Connect
 <p align="left">
-  <a href="https://github.com/h4nzs"><img src="https://img.shields.io/badge/GitHub-black?style=for-the-badge&logo=github"></a>
-  <a href="https://h4nzs.github.io/portofolio"><img src="https://img.shields.io/badge/Portfolio-coming%20soon-blueviolet?style=for-the-badge"></a>
+  <a href="https://github.com/h4nzs">
+    <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github">
+  </a>
+  <a href="https://h4nzs.github.io/portfolio">
+    <img src="https://img.shields.io/badge/Portfolio-online-7aa2f7?style=for-the-badge">
+  </a>
 </p>
 
 ---
 
 <p align="center">
-  <i>"Always learning. Always building. Always breaking — that's how real devs grow."</i>
+  <i>"Stay curious. Build things. Break things. To understand everything."</i>
 </p>
