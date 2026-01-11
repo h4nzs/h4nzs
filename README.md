@@ -79,7 +79,7 @@ Tinkering with **Arch**, **Kali**, custom dotfiles, and automation scripts.
   <a href="https://github.com/h4nzs">
     <img src="https://img.shields.io/badge/GitHub-0d1117?style=for-the-badge&logo=github">
   </a>
-  <a href="https://h4nzs.github.io/portofolio">
+  <a href="https://h4nzs.github.io/portofolio/">
     <img src="https://img.shields.io/badge/Portfolio-online-7aa2f7?style=for-the-badge">
   </a>
 </p>
