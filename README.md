@@ -1,63 +1,71 @@
-<h1 align="center">✨ Yo, I'm Han — Fullstack Dev & Cybersecurity Enthusiast</h1>
+<h1 align="center">✨ Yo, I'm Han — Fullstack Dev, Security & AI</h1>
 
 <p align="center">
-  <i>Building fast, secure, and clean digital experiences.</i><br>
-  <img src="https://img.shields.io/badge/Tech-Minimalist-7aa2f7?style=flat-square">
-  <img src="https://img.shields.io/badge/Cybersecurity-Minded-bf7af7?style=flat-square">
+  <i>Building fast, private, and clean digital systems.</i><br>
+  <img src="https://img.shields.io/badge/Fullstack-DevSecOps-7aa2f7?style=flat-square">
+  <img src="https://img.shields.io/badge/Security-Cryptography-bf7af7?style=flat-square">
+  <img src="https://img.shields.io/badge/AI-Agents-73daca?style=flat-square">
 </p>
 
 ---
 
-## 🌌 About Me  
-Hi, I'm **Han** — a developer who loves creating smooth interfaces, stable backends, and secure systems.  
-I’m currently focused on:
+## 🌌 About Me
 
-- **Intern Fullstack Web Development**  
-- **Cybersecurity & Pentesting**  
-- **Linux ecosystem + automation**  
-- **Building personal projects end-to-end**
+Hi, I'm **Han** (Dehan Amada) from Bandung, Indonesia. Since August 2026 I'm a **web developer at PT Ono Voda Pro**, where I also run the infrastructure, DevOps and security behind the company's websites.
 
-I enjoy mixing aesthetics + function to build digital stuff that feels *alive*.  
-Always exploring, always tweaking.
+What I'm into right now:
+
+- **Privacy engineering:** post-quantum E2EE, key transparency, and designing so a stolen database reveals as little as possible
+- **AI agents:** LLM tool calling and agents that speak the A2A protocol
+- **DevSecOps:** Docker, Nginx, Cloudflare, CI/CD, CVE scanning and intrusion detection
+- **Linux + automation**, and building projects end to end
 
 ---
 
 ## 🛠 Tech Stack
 
 ### **Languages**
-`PHP` · `JavaScript` · `TypeScript` · `Python` · `C` · `Bash`
+`TypeScript` · `Rust` · `Go` · `Python` · `PHP` · `SQL` · `Bash`
 
-### **Frameworks / Tools**
-`React` · `Vue` · `Node.js` · `Express` · `CodeIgniter4`  
-`TailwindCSS` · `Prisma` · `MySQL/MariaDB` · `PostgreSQL`
+### **Frontend**
+`Astro` · `React` · `Vue` · `Tailwind CSS` · `Vite` · `Tauri`
 
-### **Cybersecurity**
-`Nmap` · `BurpSuite` · `Wireshark` · `OSINT`  
-Learning more in **Web Pentesting** & **Network Security**
+### **Backend & Data**
+`Node.js` (`Express`, `Hono`) · `Django` · `CodeIgniter 4` · `PostgreSQL` · `Redis` · `SQLite` · `Prisma` · `Drizzle`
+
+### **AI & LLM**
+`Gemini API` · `Cloudflare AI` · `A2A protocol` · `MCP tools`
+
+### **Infrastructure & Security**
+`Linux` · `Docker` · `Nginx` · `Cloudflare` · `GitHub Actions` · `CrowdSec` · `Trivy`  
+`Applied Cryptography` · `Pentesting` · `OWASP` · `Nmap` · `Burp Suite` · `Wireshark`
 
 ---
 
-## 🚀 Current Projects
+## 🚀 Featured Projects
 
-### **📌 Chat-Lite (Secure Realtime Chat App)**
-A lightweight, browser-based chat platform built for speed & low resource usage.  
-Focus: UX, real-time messaging, and encryption.
+### **🌑 [Nyx Chat](https://github.com/h4nzs/nyx-chat)**
+A post-quantum, zero-knowledge messenger with no phone number or email and a blind-relay server. It combines PQXDH (ML-KEM-768), a Double Ratchet with an SPQR ratchet, Key Transparency (Go), PIR, OHTTP and OPRF, split into separate services (Rust, Go, Node.js) so a database dump reveals as little as possible. [Live](https://nyx-app.my.id)
 
-### **📌 mirAI (Movie Advisor AI)**
-Hybrid AI recommender using **TMDB** + **Gemini API**.  
-Mood-based movie suggestions with clean UI.
+### **🎬 [mirAI](https://github.com/h4nzs/mirAI-django)**
+A conversational movie advisor using **Gemini** and **TMDB**, built with Django and PostgreSQL.
 
-### **📌 Social Platform (Anon Posts + Media Uploads)**
-A community platform with anonymous posting options, admin-only identity reveal, and media uploads.
+### **🧱 [Pixcode Studio](https://github.com/h4nzs/pixcode)**
+Company site for a Bandung studio building websites and apps for SMEs. Astro 7 and Tailwind v4 on Cloudflare Workers. [Live](https://pixcode.my.id)
 
-### **📌 Linux Experiments**
-Tinkering with **Arch**, **Kali**, custom dotfiles, and automation scripts.
+### **🗑️ [Trashtalk](https://github.com/h4nzs/trashtalk)**
+A Rust + Tauri desktop tool that helps clean stale files out of your Downloads folder.
+
+### **🐧 Linux Experiments**
+Arch, custom dotfiles and automation scripts.
+
+*Some work at PT Ono Voda Pro (such as the Ahli Panggilan platform and its A2A AI agent) lives in private repositories.*
 
 ---
 
 ## 📊 GitHub Analytics
 <div align="center">
-  
+
 <img height="170" src="https://github-readme-stats.vercel.app/api?username=h4nzs&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
 <img height="170" src="https://github-readme-streak-stats.herokuapp.com/?user=h4nzs&theme=tokyonight&hide_border=true" />
 
@@ -65,7 +73,7 @@ Tinkering with **Arch**, **Kali**, custom dotfiles, and automation scripts.
 
 ---
 
-## 🎧 Vibes While Coding  
+## 🎧 Vibes While Coding
 <p align="center">
   <img src="https://img.shields.io/badge/metal-%F0%9F%8E%B5-6a5acd?style=flat-square">
   <img src="https://img.shields.io/badge/coffee-%F0%9F%8D%B5-f7768e?style=flat-square">
@@ -81,6 +89,9 @@ Tinkering with **Arch**, **Kali**, custom dotfiles, and automation scripts.
   </a>
   <a href="https://h4nzs.github.io/portofolio/">
     <img src="https://img.shields.io/badge/Portfolio-online-7aa2f7?style=for-the-badge">
+  </a>
+  <a href="https://linkedin.com/in/muhammad-dehan-amada">
+    <img src="https://img.shields.io/badge/LinkedIn-0a66c2?style=for-the-badge&logo=linkedin">
   </a>
 </p>
 
